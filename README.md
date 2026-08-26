@@ -1,6 +1,5 @@
 # mini_QGIS_WebApp
-## An end-to-end geospatial ETL (Extract, Transform, Load) pipeline, combining Python automation with QGIS-based GIS analysis for efficient, reproducible, and reliable administrative geospatial data management.
-## GIS data-processing and quality-control pipeline.
+## An end-to-end geospatial ETL pipeline, combining Python automation with QGIS-based GIS analysis for efficient geospatial data management & quality-control pipeline.
 
 # Raw administrative GIS data and progressively turns it into a clean, validated, analysis-ready GIS database.
 
