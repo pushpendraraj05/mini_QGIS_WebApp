@@ -1,0 +1,2 @@
+File,Feature_Count,Column_Count,CRS,EPSG,Null_Geometry,Empty_Geometry,Invalid_Geometry,Missing_Fields,Missing_Values,Status
+ESRI_Village_2_PURVI_CHAMPARAN_V2.geojson,1258,16,EPSG:4326,4326,0,0,14,0,0,CHECK REQUIRED

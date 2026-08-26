@@ -1,0 +1,41 @@
+ESRI JSON
+   ↓
+Convert to GeoJSON
+   ↓
+Read with GeoPandas
+   ↓
+Check CRS
+   ↓
+Validate geometry
+   ↓
+Fix invalid geometry
+   ↓
+Reproject to required CRS
+   ↓
+Export GeoPackage + GeoJSON
+   ↓
+QC report
+
+
+WKID 4326 means the WGS 84 geographic coordinate system, which uses latitude and longitude measured in degrees.
+
+
+
+Why EPSG:32645?
+For your Purvi Champaran/Bihar work,
+EPSG:32645 is the UTM Zone 45N projected CRS we're using for metre-based spatial operations.
+
+Original/reference data	EPSG:4326
+Web/GIS exchange	EPSG:4326
+Distance	EPSG:32645
+Area	EPSG:32645
+20 m buffer	EPSG:32645
+Railway splitting	EPSG:32645
+Waterbody splitting	EPSG:32645
+Boundary analysis	EPSG:32645
+
+
+
+             GeoJSON          GeoPackage
+best for     sharing           storage
+
